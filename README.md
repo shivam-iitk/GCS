@@ -1,2 +1,2 @@
 # GSC
-The webpage site can be found in site folder
+The gcs.html site can be found in site folder
