@@ -1,2 +1,2 @@
-# GSC
+# GCS
 The gcs.html site can be found in site folder
